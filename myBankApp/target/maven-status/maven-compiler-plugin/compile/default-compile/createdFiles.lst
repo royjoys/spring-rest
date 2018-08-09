@@ -1,0 +1,4 @@
+com\mybank\resources\UserResource.class
+com\mybank\dao\UserDao.class
+com\mybank\model\User.class
+com\mybank\service\UserService.class
